@@ -1,8 +1,4 @@
-- 👋 Hi, I’m MukhammadYusuf // My nickname is George  
-- 👀 I’m interested in Programming and sports
-- 🌱 I have been learning Python programming language since 2020
-- 💞️ I’m looking to collaborate on reputed company
-- 📫 How to reach me by phone 
+Hey, I am Muhammad Yusuf. I have been studying at Tashkent University of Information Technologies since 2020. 
 Phone number : +998907597059
 
 <!---
